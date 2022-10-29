@@ -1,2 +1,2 @@
 # DU-System-Information-Screen
-![Image of Screen](DU-Basic-Storage-Capacity-Ore.png?raw=true)
+![Image of Screen](images/du_system_screen.png?raw=true)
