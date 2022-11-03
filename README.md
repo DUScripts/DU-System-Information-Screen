@@ -1,7 +1,7 @@
 # Information
  The default Dual Universe information screen along with some exampled I have come up with for different things.  
 
-[![](https://img.shields.io/badge/DU-1.0.10-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
+[![](https://img.shields.io/badge/DU-1.0.11-green?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/2000270/Dual_Universe/)
 [![](https://img.shields.io/badge/Maintained-YES-green?style=for-the-badge)](#)
 [![](https://img.shields.io/badge/VERSION-v3.33-green?style=for-the-badge)](#)
 ![](https://komarev.com/ghpvc/?username=DU-System-Information-Screen&style=for-the-badge)
